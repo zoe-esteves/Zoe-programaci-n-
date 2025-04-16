@@ -1,0 +1,41 @@
+styled-table{
+    border: solid #bc2ce0;
+ }
+ table{
+     width: 90%;
+     border-collapse: collapse;
+ }
+ .sabadoydomingo{
+     border: 2px solid rgb(247, 145, 145);
+     background-color: rgb(126, 60, 233);
+ 
+   
+    }
+    
+    body {
+        background-size: cover;
+        background-position: center;
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    .calendario {
+        display: flex; 
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px; 
+    }
+    
+    
+    td, th {
+        padding: 10px; 
+        text-align: center;
+        background-color: rgb(97, 236, 236);
+    }
+     
+    .center {
+        background-color: blueviolet;
+        border: 2px solid rgb(235, 7, 243);
+    }
